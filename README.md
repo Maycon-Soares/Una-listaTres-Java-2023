@@ -5,3 +5,5 @@ Lista de Exercícios Qualidade de Software
 IDE utilizada: NetBeans
 
 Linguagem: Java
+
+Testando
